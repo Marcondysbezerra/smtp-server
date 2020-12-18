@@ -1,6 +1,6 @@
 # smtp-server
 
-Para que esse código funcione primeiramente você deverá desativar a segurança do google.
+Para este código estarei utilizando como exemplo o serviço de e-mail do google. Devido as configurações de segurança do google primeiramente deverá ser feita a desativação desse serviço.
 
 Segue o passo a passo:
 
